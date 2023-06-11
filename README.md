@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnryjsph&label=Profile%20views&color=0e75b6&style=flat" alt="hnryjsph" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hnryjsph" alt="hnryjsph" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jp_lokuku" target="blank"><img src="https://img.shields.io/twitter/follow/JP_Lokuku?logo=twitter&style=for-the-badge" alt="jp_lokuku" /></a> </p>
 
 - 🌱 I’m currently learning **At Alx SE**
 
